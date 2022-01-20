@@ -1,0 +1,22 @@
+{
+	"name": "mixed-messages",
+	"version": "0.0.1",
+	"description": "Mixed-up philosophy quote generator program.",
+	"main": "mixed-messages.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jlema/mixed-messages.git"
+	},
+	"author": "John (Juan) Lema",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jlema/mixed-messages/issues"
+	},
+	"homepage": "https://github.com/jlema/mixed-messages#readme",
+	"dependencies": {
+		"node-fetch": "^3.2.0"
+	}
+}

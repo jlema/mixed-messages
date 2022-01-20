@@ -1,0 +1,102 @@
+[
+	{
+		"character": "Alan Watts",
+		"born": 1915,
+		"died": 1973
+	},
+	{
+		"character": "Aristotle",
+		"born": -384,
+		"died": -322
+	},
+	{
+		"character": "Baruch Spinoza",
+		"born": 1632,
+		"died": 1677
+	},
+	{
+		"character": "Carl G. Jung",
+		"born": 1875,
+		"died": 1961
+	},
+	{
+		"character": "Christopher McCandless",
+		"born": 1968,
+		"died": 1992
+	},
+	{
+		"character": "David Hume",
+		"born": 1711,
+		"died": 1776
+	},
+	{
+		"character": "Epictetus",
+		"born": -50,
+		"died": 135
+	},
+	{
+		"character": "Friedrich Nietzsche",
+		"born": 1844,
+		"died": 1900
+	},
+	{
+		"character": "Fyodor Dostoyevsky",
+		"born": 1821,
+		"died": 1881
+	},
+	{
+		"character": "George Berkeley",
+		"born": 1685,
+		"died": 1753
+	},
+	{
+		"character": "Henry David Thoreau",
+		"born": 1817,
+		"died": 1862
+	},
+	{
+		"character": "Jean-Paul Sartre",
+		"born": 1905,
+		"died": 1980
+	},
+	{
+		"character": "John Locke",
+		"born": 1632,
+		"died": 1704
+	},
+	{
+		"character": "Leibniz",
+		"born": 1646,
+		"died": 1716
+	},
+	{
+		"character": "Marcus Aurelius",
+		"born": 121,
+		"died": 180
+	},
+	{
+		"character": "Plato",
+		"born": -428,
+		"died": -348
+	},
+	{
+		"character": "Ralph Waldo Emerson",
+		"born": 1803,
+		"died": 1882
+	},
+	{
+		"character": "René Descartes",
+		"born": 1596,
+		"died": 1650
+	},
+	{
+		"character": "Rumi",
+		"born": 1207,
+		"died": 1273
+	},
+	{
+		"character": "Seneca",
+		"born": -4,
+		"died": 65
+	}
+]
