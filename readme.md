@@ -4,9 +4,9 @@
 
 Mixed-up philosophy quote generator program, part of the [Full-Stack Engineer Career Path at CodeCademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path).
 
-Every time a user runs a program, they get a new, randomized, mixed-up philosophy quote. The message that the program outputs is made up of four different pieces of data: author, philosophy, quote and year between author birth and passing.
+Every time a user runs a program, they get a new, randomized, mixed-up philosophy quote. The message that the program outputs is made up of four different pieces of data: author, philosophy, quote and a year between the author's years of birth and passing.
 
-The authors, philosophies and quotes are from Karan Dahiya's `philosophy-quotes-API` (see Acknowledgements) and the birth and passing dates were retrieved from Wikipedia.
+The authors, philosophies and quotes are from Karan Dahiya's `philosophy-quotes-API` (see Acknowledgements.) The birth and passing years were retrieved from Wikipedia.
 
 ## Requirements
 
@@ -17,7 +17,17 @@ The authors, philosophies and quotes are from Karan Dahiya's `philosophy-quotes-
 
 After cloning the repo locally, run:
 
-`node mixed-messages.js`
+```sh
+node mixed-messages.js
+```
+
+Example run:
+
+```text
+$ node mixed-messages.js
+That which does not kill us makes us stronger.
+Epictetus, scholar of Empiricism, 1738
+```
 
 ## Technologies used
 
